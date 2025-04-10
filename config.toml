@@ -8,3 +8,5 @@ parallel-jobs = 1
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+arch = "both"
+build-mode = "both"
